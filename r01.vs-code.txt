@@ -1,0 +1,4 @@
+请使用VS Code
+https://code.visualstudio.com/
+编码:utf-8
+行尾序列:lf

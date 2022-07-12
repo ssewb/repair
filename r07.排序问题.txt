@@ -1,0 +1,3 @@
+﻿engs   | chap | sec  ----------+------+-----  John     |   21 |  25  Acts     |    1 |   1    engs   | chap | sec  ----------+------+-----  Ps       |  150 |   6  Prov     |    1 |   1    engs   | chap | sec  ----------+------+-----  Hab      |    3 |  20  Zeph     |    1 |   1     engs   | chap | sec  ----------+------+-----  2 Cor    |   13 |  14  Gal      |    1 |   1    engs   | chap | sec  ----------+------+-----  1 Kin    |   22 |  54  2 Kin    |    1 |   1 
+
+2co 13:14 前后顺序
